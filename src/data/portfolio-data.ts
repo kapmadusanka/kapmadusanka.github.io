@@ -8,7 +8,7 @@ export const personalInfo = {
   phone: "+94 77-562-7722",
   location: "Moratuwa, Sri Lanka",
   github: "https://github.com/kapmadusanka",
-  linkedin: "https://linkedin.com/in/kapmadusanka",
+  linkedin: "https://linkedin.com/in/ka-pradeep-madhusanka",
   availability: "Available for High-Impact Projects / Full-time Roles",
 };
 
