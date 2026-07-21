@@ -5,6 +5,6 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  // Relative base path ensures compatibility with primary GitHub Pages (username.github.io) and custom domains
-  base: "./",
+  // Primary user page base path: https://kapmadusanka.github.io/
+  base: "/",
 });
